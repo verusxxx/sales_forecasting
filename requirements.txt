@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+lightgbm
+joblib
+fastapi
+uvicorn
+openpyxl
+matplotlib 
+plotly
